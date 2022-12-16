@@ -27,6 +27,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Justify list items to the right with no decoration for navlinks */
 nav {
     padding-top: 15px;
     margin-right: 20px;
